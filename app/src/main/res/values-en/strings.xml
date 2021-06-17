@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">My Debts</string>
+
+    <string name="sem_registro">No debts. Register a new one.</string>
+
+    <string name="nome_label">Name:</string>
+    <string name="valor_label">Value:</string>
+
+    <string name="cadastrar">Register</string>
+    <string name="atualizar">Update</string>
+    <string name="relatorios">Reports</string>
+    <string name="salvar">Salvar</string>
+
+    <string name="nome_hint">Name</string>
+    <string name="valor_hint">Value</string>
+    <string name="pago_hint">Paid</string>
+
+    <string name="cadastro_erro">Fill in all fields!</string>
+    <string name="cadastro_dao_erro">An error occurred when registering!</string>
+    <string name="cadastro_deletar">Item deleted successfully!</string>
+
+    <string name="pago">Paid</string>
+    <string name="nao_pago">Not paid</string>
+
+    <string name="total_pago">Total paid:</string>
+    <string name="total_nao_pago">Total unpaid:</string>
+
+    <string name="deletar">Delete</string>
+
+    <string name="categoria_label">Category</string>
+
+    <string name="relatorio_pago">There are no paid items</string>
+    <string name="relatorio_nao_pago">There are no unpaid items</string>
+
+    <string-array name="categoria_array">
+        <item>(Choose)</item>
+        <item>Pharmacy</item>
+        <item>Food</item>
+        <item>Health</item>
+        <item>Home</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>
